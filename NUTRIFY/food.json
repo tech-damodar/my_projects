@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Chicken Curry",
+        "calories": 110,
+        "protein": 15,
+        "carbohydrates": 5,
+        "fat": 4,
+        "fiber": 3
+    },
+    {
+        "name": "Beef Stew",
+        "calories": 200,
+        "protein": 25,
+        "carbohydrates": 10,
+        "fat": 8,
+        "fiber": 2
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "calories": 150,
+        "protein": 5,
+        "carbohydrates": 20,
+        "fat": 6,
+        "fiber": 5
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "calories": 250,
+        "protein": 20,
+        "carbohydrates": 30,
+        "fat": 10,
+        "fiber": 4
+    },
+    {
+        "name": "Grilled Salmon",
+        "calories": 180,
+        "protein": 22,
+        "carbohydrates": 0,
+        "fat": 9,
+        "fiber": 1
+    },
+    {
+        "name": "Quinoa Salad",
+        "calories": 120,
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 3,
+        "fiber": 4
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "calories": 170,
+        "protein": 18,
+        "carbohydrates": 7,
+        "fat": 8,
+        "fiber": 2
+    },
+    {
+        "name": "Beef Tacos",
+        "calories": 190,
+        "protein": 12,
+        "carbohydrates": 20,
+        "fat": 9,
+        "fiber": 3
+    },
+    {
+        "name": "Lentil Soup",
+        "calories": 130,
+        "protein": 10,
+        "carbohydrates": 18,
+        "fat": 2,
+        "fiber": 6
+    },
+    {
+        "name": "Pancakes",
+        "calories": 220,
+        "protein": 6,
+        "carbohydrates": 40,
+        "fat": 7,
+        "fiber": 2
+    },
+    {
+        "name": "Scrambled Eggs",
+        "calories": 140,
+        "protein": 12,
+        "carbohydrates": 2,
+        "fat": 10,
+        "fiber": 0
+    },
+    {
+        "name": "Greek Yogurt with Honey",
+        "calories": 100,
+        "protein": 8,
+        "carbohydrates": 15,
+        "fat": 3,
+        "fiber": 0
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "calories": 210,
+        "protein": 9,
+        "carbohydrates": 25,
+        "fat": 9,
+        "fiber": 1
+    },
+    {
+        "name": "Tomato Soup",
+        "calories": 90,
+        "protein": 3,
+        "carbohydrates": 15,
+        "fat": 2,
+        "fiber": 3
+    },
+    {
+        "name": "Mushroom Risotto",
+        "calories": 170,
+        "protein": 6,
+        "carbohydrates": 30,
+        "fat": 5,
+        "fiber": 2
+    },
+    {
+        "name": "Cobb Salad",
+        "calories": 210,
+        "protein": 18,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 3
+    },
+    {
+        "name": "Turkey Sandwich",
+        "calories": 250,
+        "protein": 20,
+        "carbohydrates": 30,
+        "fat": 7,
+        "fiber": 4
+    },
+    {
+        "name": "Veggie Burger",
+        "calories": 180,
+        "protein": 12,
+        "carbohydrates": 22,
+        "fat": 6,
+        "fiber": 5
+    },
+    {
+        "name": "Chicken Fajitas",
+        "calories": 230,
+        "protein": 18,
+        "carbohydrates": 25,
+        "fat": 8,
+        "fiber": 4
+    },
+    {
+        "name": "Shrimp Scampi",
+        "calories": 190,
+        "protein": 15,
+        "carbohydrates": 10,
+        "fat": 10,
+        "fiber": 1
+    },
+    {
+        "name": "Eggplant Parmesan",
+        "calories": 200,
+        "protein": 10,
+        "carbohydrates": 20,
+        "fat": 12,
+        "fiber": 5
+    },
+    {
+        "name": "Beef Burrito",
+        "calories": 300,
+        "protein": 22,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 6
+    },
+    {
+        "name": "Avocado Toast",
+        "calories": 160,
+        "protein": 4,
+        "carbohydrates": 20,
+        "fat": 8,
+        "fiber": 5
+    },
+    {
+        "name": "Chicken Alfredo",
+        "calories": 320,
+        "protein": 25,
+        "carbohydrates": 35,
+        "fat": 12,
+        "fiber": 3
+    },
+    {
+        "name": "Salmon Sushi Roll",
+        "calories": 140,
+        "protein": 10,
+        "carbohydrates": 22,
+        "fat": 4,
+        "fiber": 1
+    },
+    {
+        "name": "Chili Con Carne",
+        "calories": 250,
+        "protein": 20,
+        "carbohydrates": 25,
+        "fat": 10,
+        "fiber": 6
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "calories": 210,
+        "protein": 18,
+        "carbohydrates": 10,
+        "fat": 12,
+        "fiber": 3
+    },
+    {
+        "name": "Pasta Primavera",
+        "calories": 200,
+        "protein": 8,
+        "carbohydrates": 30,
+        "fat": 6,
+        "fiber": 4
+    },
+    {
+        "name": "Mango Smoothie",
+        "calories": 120,
+        "protein": 3,
+        "carbohydrates": 28,
+        "fat": 1,
+        "fiber": 2
+    },
+    {
+        "name": "Chicken Quesadilla",
+        "calories": 270,
+        "protein": 18,
+        "carbohydrates": 25,
+        "fat": 12,
+        "fiber": 3
+    }
+]

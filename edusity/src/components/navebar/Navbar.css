@@ -1,0 +1,21 @@
+nav{
+width: 100%;
+/* background: #333; */
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: fixed;
+
+}
+.logo{
+    width: 180px;
+
+}
+nav ul li{
+    display: inline;
+    margin: 10px 20px;
+    color: #fff;
+    list-style: none;
+    font-size: 16px;
+}
+

@@ -1,0 +1,97 @@
+.hader{
+    width: 100%;
+    
+    background-color: cadetblue;
+}
+.hader ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.hader ul li{
+    font-size: 18px;
+    list-style: none;
+    color: #fff;
+    cursor: pointer;
+}
+.search{
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    /* background-color: antiquewhite; */
+}
+.search input{
+    width: 80%;
+    height: 30px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    border: 1px black solid;
+    border-radius: 5px;
+    text-indent: 20px;
+}
+.main-food{
+    position: relative;
+    overflow: hidden;
+}
+.search-item-list{
+    width: 65%;
+    height: 30px;
+    margin: auto;
+   position: absolute;
+   top: 150px;
+   left: 100px;
+   /* text-align: center; */
+    text-indent: 20px;
+}
+
+.search-item-list p{
+    font-size: 18px;
+    padding: 3px 5px;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+.main-card{
+    /* background-color: blueviolet; */
+    width: 100%;
+    /* height: 200px; */
+}
+.main-card .img{
+    width: 70%;
+    /* background-color: beige; */
+    height: 200px;
+    margin: auto;
+    /* margin-top: 0px; */
+}
+.main-card .img img{
+    width: 100%;
+    /* height: 80%; */
+    background-size: cover;
+}
+.main-card .intro{
+    display: flex;
+    justify-content:space-around ;
+    margin-top: 10px;
+}
+.main-card .nutition{
+    display: flex;
+    justify-content:space-around ;
+}
+.nat-item{
+    display: flex;
+    justify-content:center ;
+
+    margin-top: 10px;
+}
+.nat-item button{
+    background-color: rgb(74, 184, 74);
+}
+.nat-item input{
+    margin-right: 20px;
+    font-size:15px;
+    border: 1px black solid;
+    border-radius: 5px;
+    text-indent: 20px;
+}
